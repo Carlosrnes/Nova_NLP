@@ -1,4 +1,4 @@
-sentence	prediction
+sentence	emotion
 What happens to the gold in our safe ?	4
 Natural to get cold feet .	6
 Not very lucky , is he ?	7
